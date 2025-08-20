@@ -35,7 +35,7 @@
       <h2 style="font-family: 'JetBrains Mono', monospace; color: #F77737;">🚀 About Me</h2>
       <div style="display: flex; flex-direction: column; gap: 16px; background: rgba(13, 17, 23, 0.7); border-radius: 16px; padding: 20px; border: 1px solid rgba(255, 255, 255, 0.1); font-size: 15px; line-height: 1.8;">
         <div><b>📚 Education:</b><br/>
-          <span style="color:#CCCCCC;">Computer Engineering @ <b>SPIT Mumbai</b> <code style="color:#6C63FF;">(CGPA: 9.5/10)</code><br/>
+          <span style="color:#CCCCCC;">Computer Engineering @ <b>SPIT Mumbai</b> <code style="color:#6C63FF;">(CGPA: 9.6/10)</code><br/>
           Minor in Finance & Management @ <b>SPJIMR</b><br/>
           MHT-CET 2022: <code style="color:#F77737;">99.78%ile</code></span>
         </div>
@@ -44,16 +44,16 @@
           <ul style="margin-left: -20px; padding-left: 20px;">
             <li><b>Research Intern</b> – IIT Bombay (Contactless Biometric Systems with UIDAI)</li>
             <li><b>Patent Holder</b> – PETHUB: Integrated Pet Care System (Published Jan 2025)</li>
-            <li><b>ML Research</b> – Tuberculosis Detection, Fingerprint Regeneration, Drug Reactions</li>
-            <li><b>Healthcare AI</b> – Osteoarthritis Prediction from X-Rays</li>
+            <li><b>ML Research</b> – Fingerprint Regeneration, Adverse Drug Reaction Prediction</li>
+            <li><b>Healthcare AI</b> – Tuberculosis Detection, Osteoarthritis Prediction from X-Rays</li>
           </ul>
         </div>
         <div><b>💼 Professional Experience:</b><br/>
           <ul style="margin-left: -20px; padding-left: 20px;">
+            <li><b>Lead Developer</b> – AI Productivity App (Face Auth, Focus Engine, Attention Analytics)</li>
             <li><b>App Dev & ML Intern</b> @ Aim4U Software – AutoBuddys (Autism care app)</li>
-            <li><b>Research Intern</b> @ GS Medical College & KEM Hospital – Diabetic foot detection</li>
             <li><b>ML Intern</b> @ Hirademy Technologies – Health app with AI nutrition</li>
-            <li><b>ML Intern</b> @ Techgyan-IITB – Predictive analytics</li>
+            <li><b>Tech Intern</b> @ NKCCA – LMS using Flutter + Firebase</li>
           </ul>
         </div>
         <div><b>🏆 Achievements:</b><br/>
