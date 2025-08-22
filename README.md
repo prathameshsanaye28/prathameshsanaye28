@@ -1,12 +1,13 @@
 <!-- BANNER IMAGE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F77737&height=200&section=header&text=Prathamesh%20Sanaye&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Researcher%20|%20App%20Developer%20|%20Patent%20Holder&descAlignY=60&descAlign=50" width="100%" alt="Prathamesh Sanaye"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=200&section=header&text=Prathamesh%20Sanaye&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Researcher%20|%20App%20Developer%20|%20Patent%20Holder&descAlignY=60&descAlign=50" width="100%" alt="Prathamesh Sanaye"/>
+
 </div>
 
 <!-- ANIMATED GREETING -->
 <h1 align="center">
   <a href="https://raw.githubusercontent.com/prathameshsanaye28/profile/github-snake.svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Prathamesh;ML+Researcher+%26+Developer;9x+Hackathon+Winner;HealthTech+Innovator;Patent+Holder;AI+%26+Mobile+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Prathamesh;ML+Researcher+%26+Developer;Flutter+Expert;9x+Hackathon+Winner;HealthTech+Innovator;Patent+Holder;AI+%26+Mobile+Expert" alt="Typing SVG" />
   </a>
 </h1>
 
