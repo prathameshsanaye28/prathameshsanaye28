@@ -11,15 +11,8 @@
   </a>
 </h1>
 
-![snake gif](https://github.com/prathameshsanaye28/prathameshsanaye28/blob/output/ocean.gif)
 
-<div align="center">
-   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathameshsanaye28/prathameshsanaye28/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathameshsanaye28/prathameshsanaye28/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  </picture>
-</div>
+![snake gif](https://github.com/prathameshsanaye28/prathameshsanaye28/blob/output/github-contribution-grid-snake.gif)
 
 
 <div align="center">
