@@ -12,7 +12,8 @@
 </h1>
 
 
-![snake gif](https://github.com/prathameshsanaye28/prathameshsanaye28/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/prathameshsanaye28/prathameshsanaye28/blob/output/github-snake-dark.svg)
+
 
 
 <div align="center">
