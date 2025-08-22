@@ -11,6 +11,8 @@
   </a>
 </h1>
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 <div align="center">
    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathameshsanaye28/prathameshsanaye28/output/github-snake-dark.svg" />
