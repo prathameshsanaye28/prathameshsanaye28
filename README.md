@@ -6,7 +6,7 @@
 
 <!-- ANIMATED GREETING -->
 <h1 align="center">
-  <a href="https://raw.githubusercontent.com/prathameshsanaye28/profile/github-snake.svg">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Prathamesh;ML+Researcher+%26+Developer;Flutter+Expert;9x+Hackathon+Winner;HealthTech+Innovator;Patent+Holder;AI+%26+Mobile+Expert" alt="Typing SVG" />
   </a>
 </h1>
@@ -15,7 +15,7 @@
    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathameshsanaye28/profile/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathameshsanaye28/profile/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/profile/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/output/github-snake.svg" />
   </picture>
 </div>
 
