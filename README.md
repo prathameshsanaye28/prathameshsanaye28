@@ -13,11 +13,12 @@
 
 <div align="center">
    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathameshsanaye28/profile/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathameshsanaye28/profile/output/github-snake.svg" />
-    <img alt="" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathameshsanaye28/prathameshsanaye28/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathameshsanaye28/prathameshsanaye28/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/prathameshsanaye28/prathameshsanaye28/output/github-snake.svg" />
   </picture>
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prathameshsanaye28&style=for-the-badge&color=6C63FF" alt="Profile Views" />
